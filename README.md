@@ -1,17 +1,17 @@
-# Spreaddit-CrossPlatform 🌐
+# Spreaddit-CrossPlatform
 
 Spreaddit-CrossPlatform is an open-source project designed to replicate the essence and functionality of the Reddit application across multiple platforms. Whether you’re a fan of Reddit or just interested in how such platforms are built, this project serves as a hands-on example.
 
-## Features ✨
+## Features
 
 - **Cross-Platform Compatibility**: Built to work on both mobile and web platforms.
 - **Modern Design**: Aims to mirror the Reddit user experience.
 
-## Tech Stack 🛠️
+## Tech Stack
 
 - **Framework**: Flutter (Dart)
 
-## Getting Started 🚀
+## Getting Started
 
 1. **Clone the repository**:
     ```bash
@@ -26,10 +26,10 @@ Spreaddit-CrossPlatform is an open-source project designed to replicate the esse
     flutter run
     ```
 
-## License 📄
+## License
 
 This project is licensed under the MIT License.
 
-## Links 🔗
+## Links
 
-- [Live Demo](https://app.spreaddit.me)
+- [Live Demo](https://drive.google.com/file/d/1tA_LXx-AOU4ctHW-Az2o-_6oZPVadZH-/view?usp=sharing)
